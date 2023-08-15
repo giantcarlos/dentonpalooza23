@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Dentonpalooza 2023.
+          DENTONPALOOZA 2023
         </p>
       </header>
     </div>
