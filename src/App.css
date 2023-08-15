@@ -1,22 +1,37 @@
 .App {
   text-align: center;
-  background-color: #282c34;
-}
-
-.App-header {
-  background-color: #282c34;
-  font-size: 48px;
-  font-weight: 900;
-  line-height: 1.2;
-  color: #303030;
-  letter-spacing: -1px;
-  color: white;
 }
 
 body {
   margin: 0;
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #282c34;
+  background-color: white;
+}
+
+header {
+  font-size: 68px;
+  font-weight: 900;
+  line-height: 0;
+  letter-spacing: -1px;
+  color: #303030;
+}
+
+h2 {
+  font-size: 32.5px;
+  font-weight: 500;
+  margin: 0;
+}
+
+h3 {
+  font-size: 25.25px;
+  font-weight: 500;
+  margin: 0;
+}
+
+hr {
+  width: 470px;
+  height: 1.2px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #303030;
 }
