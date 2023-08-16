@@ -1,11 +1,9 @@
-.App {
-  text-align: center;
-}
-
 body {
   margin: 0;
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   background-color: white;
+  color: #303030;
+  text-align: center;
 }
 
 header {
@@ -13,19 +11,16 @@ header {
   font-weight: 900;
   line-height: 0;
   letter-spacing: -1px;
-  color: #303030;
 }
 
 h2 {
   font-size: 32.5px;
   font-weight: 500;
-  margin: 0;
 }
 
 h3 {
   font-size: 25.25px;
   font-weight: 500;
-  margin: 0;
 }
 
 hr {
@@ -34,4 +29,20 @@ hr {
   margin-left: auto;
   margin-right: auto;
   background-color: #303030;
+}
+
+@media only screen and (max-width: 900px) {
+  header {
+    font-size: 58px;
+  }
+  h2 {
+    font-size: 28px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  hr {
+    width: 400px;
+  }
+
 }
