@@ -31,18 +31,44 @@ hr {
   background-color: #303030;
 }
 
+.image-grid {
+  --gap: 32px;
+  --num-cols: 5;
+  --row-height: 75px;
+
+  box-sizing: border-box;
+  padding: 36px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: grid;
+  grid-template-columns: repeat(var(--num-cols), 1fr);
+  grid-auto-rows: var(--row-height);
+  gap: var(--gap);
+}
+
+.image-grid > img {
+  width: 100%;
+  height: 100%;
+  object-fit: scale-down;
+}
+
 @media only screen and (max-width: 900px) {
   header {
-    font-size: 58px;
+    font-size: 42px;
   }
   h2 {
-    font-size: 28px;
+    font-size: 20.5px;
   }
   h3 {
-    font-size: 22px;
+    font-size: 16px;
   }
   hr {
-    width: 400px;
+    width: 285px;
   }
-
+  .image-grid {
+    --num-cols: 3;
+    --row-height: 50px;
+    margin-left: 32px;
+    margin-right: 32px;
+  }
 }
