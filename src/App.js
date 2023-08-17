@@ -27,7 +27,7 @@ function App() {
             <img src={"/dentonpaloozastage.jpg"} />
           </div>
           <div className="card-details">Tickets go on sale to the general public on September 1, 2023.</div>
-          <div className="card-details">Tickets are priced at $20 per ticket.</div>
+          <div className="card-details">Tickets are priced at $20 each.</div>
           <a href='https://www.prekindle.com/event/33981-dentonpalooza-3-denton' target="_blank">
             <button className="button">BUY NOW</button>
           </a>
