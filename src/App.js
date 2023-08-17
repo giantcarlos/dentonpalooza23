@@ -5,7 +5,7 @@ function App() {
     <>
       <header>
         <p>Dentonpalooza</p>
-        <h2>SATURDAY / NOVEMBER 4, 2023</h2>
+        <h2>SATURDAY / OCTOBER 28, 2023</h2>
         <hr />
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
       </header>
