@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <>
       <header>
         <p>Dentonpalooza</p>
         <h2>SATURDAY / NOVEMBER 4, 2023</h2>
@@ -10,7 +10,7 @@ function App() {
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
       </header>
       <body>
-        <div class="image-grid">
+        <div className="image-grid">
           <a href='http://recycledbooks.com/'><img src={"/recycled.png"} /></a>
           <a href='https://www.morefuncomicsandgames.com/'><img src={"/morefun.png"} /></a>
           <a href='https://www.littleguys.com/'><img src={"/littleguys.png"} /></a>
@@ -22,7 +22,7 @@ function App() {
           <a href='https://www.missangelinesdenton.com/'><img src={"/angelines.png"} /></a>
         </div>
       </body>
-    </div>
+    </>
   );
 }
 
