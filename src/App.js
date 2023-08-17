@@ -10,21 +10,21 @@ function App() {
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
       </header>
       <div className="image-grid">
-          <a href='http://recycledbooks.com/'><img src={"https://images.squarespace-cdn.com/content/55e7088de4b004a111a77d4c/1443731700232-K7DHUBACPUTIZWLJA57K/recycled_books_PE_logo.png?format=1000w&content-type=image%2Fpng"} /></a>
-          <a href='https://www.morefuncomicsandgames.com/'><img src={"/morefun.png"} /></a>
-          <a href='https://www.littleguys.com/'><img src={"/littleguys.png"} /></a>
-          <a href='https://orbitpressusa.com/'><img src={"/orbit.png"} /></a>
-          <a href='https://www.smilinrickstattoos.com/'><img src={"/smilinricks.png"} /></a>
-          <a href='https://danssilverleaf.com/'><img src={"/dans.png"} /></a>
-          <a href='https://oakstreetdrafthouse.com/'><img src={"/oakst.png"} /></a>
-          <a href='https://www.eastsidedtx.com/'><img src={"/eastside.jpg"} /></a>
-          <a href='https://www.missangelinesdenton.com/'><img src={"/angelines.png"} /></a>
+          <a href='http://recycledbooks.com/'><img src={"https://i.imgur.com/6F5XWoE.png"} /></a>
+          <a href='https://www.morefuncomicsandgames.com/'><img src={"https://i.imgur.com/k8Vheyt.png"} /></a>
+          <a href='https://www.littleguys.com/'><img src={"https://i.imgur.com/24seD6Q.png"} /></a>
+          <a href='https://orbitpressusa.com/'><img src={"https://i.imgur.com/kFiPV31.png"} /></a>
+          <a href='https://www.smilinrickstattoos.com/'><img src={"https://i.imgur.com/APchk7a.png"} /></a>
+          <a href='https://danssilverleaf.com/'><img src={"https://i.imgur.com/jHoY46F.png"} /></a>
+          <a href='https://oakstreetdrafthouse.com/'><img src={"https://i.imgur.com/L1Jf7L6.png"} /></a>
+          <a href='https://www.eastsidedtx.com/'><img src={"https://i.imgur.com/CWrmgQg.jpg"} /></a>
+          <a href='https://www.missangelinesdenton.com/'><img src={"https://i.imgur.com/GBB5S1l.png"} /></a>
       </div>
       <div className="container">
         <div className="card">
           <div className="card-title">TICKET INFORMATION</div>
           <div className="card-image">
-            <img src={"/dentonpaloozastage.jpg"} />
+            <img src={"https://i.imgur.com/HBadz63.jpg"} />
           </div>
           <div className="card-details">Tickets go on sale to the general public on September 1, 2023.</div>
           <div className="card-details">Each ticket is priced at $20.</div>
@@ -35,7 +35,7 @@ function App() {
         <div className="card">
           <div className="card-title">PERFORMERS / ATTRACTIONS</div>
           <div className="card-image">
-            <img src={"/dentonpaloozaflyer.jpg"} />
+            <img src={"https://i.imgur.com/ycsbmxD.jpg"} />
           </div>
         </div>
       </div>
