@@ -10,7 +10,7 @@ function App() {
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
       </header>
       <div className="image-grid">
-          <a href='http://recycledbooks.com/'><img src={"./recycled.png"} /></a>
+          <a href='http://recycledbooks.com/'><img src={"https://images.squarespace-cdn.com/content/55e7088de4b004a111a77d4c/1443731700232-K7DHUBACPUTIZWLJA57K/recycled_books_PE_logo.png?format=1000w&content-type=image%2Fpng"} /></a>
           <a href='https://www.morefuncomicsandgames.com/'><img src={"/morefun.png"} /></a>
           <a href='https://www.littleguys.com/'><img src={"/littleguys.png"} /></a>
           <a href='https://orbitpressusa.com/'><img src={"/orbit.png"} /></a>
