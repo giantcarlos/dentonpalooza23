@@ -167,6 +167,7 @@ a {
     width: 40%;
     font-family: inherit;
     padding: .5rem 1.5rem;
+    -webkit-appearance: none;
   }
   .footer-detail {
     font-size: 1.1rem;
