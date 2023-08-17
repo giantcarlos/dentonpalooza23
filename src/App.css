@@ -57,6 +57,55 @@ hr {
   transform: scale(1.1);
 }
 
+.container {
+  margin-bottom: 4rem;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  display: grid;
+  gap: 2rem;
+  align-items: center;
+  animation: fadeIn .5s;
+}
+
+.card {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.75rem;
+  text-align: left;
+  background: white;
+  border-radius: .25rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 2);
+}
+
+.card-image {
+  overflow: hidden;
+}
+
+.card-image > img {
+  display: block;
+  float: right;
+  width: 100%;
+  object-fit: cover;
+  transition: 200ms transform ease-in-out;
+  margin-bottom: 1rem;
+}
+
+.card:hover > .card-image > img {
+  transform: scale(1.025);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.card-details {
+  font-size: 1.1rem;
+  margin-bottom: .5rem;
+}
+
 @media only screen and (max-width: 900px) {
   header {
     font-size: 42px;
@@ -75,5 +124,12 @@ hr {
     --row-height: 50px;
     margin-left: 32px;
     margin-right: 32px;
+  }
+  .container {
+    margin-left: 4.4rem;
+    margin-right: 4.4rem;
+  }
+  .card {
+    padding: 1.25rem;
   }
 }
