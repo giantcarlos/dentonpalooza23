@@ -11,15 +11,15 @@ function App() {
       </header>
       <body>
         <div class="image-grid">
-          <img src={"/recycled.png"} />
-          <img src={"/morefun.png"} />
-          <img src={"/littleguys.png"} />
-          <img src={"/orbit.png"} />
-          <img src={"/smilinricks.png"} />
-          <img src={"/dans.png"} />
-          <img src={"/oakst.png"} />
-          <img src={"/eastside.jpg"} />
-          <img src={"/angelines.png"} />
+          <a href='http://recycledbooks.com/'><img src={"/recycled.png"} /></a>
+          <a href='https://www.morefuncomicsandgames.com/'><img src={"/morefun.png"} /></a>
+          <a href='https://www.littleguys.com/'><img src={"/littleguys.png"} /></a>
+          <a href='https://orbitpressusa.com/'><img src={"/orbit.png"} /></a>
+          <a href='https://www.smilinrickstattoos.com/'><img src={"/smilinricks.png"} /></a>
+          <a href='https://danssilverleaf.com/'><img src={"/dans.png"} /></a>
+          <a href='https://oakstreetdrafthouse.com/'><img src={"/oakst.png"} /></a>
+          <a href='https://www.eastsidedtx.com/'><img src={"/eastside.jpg"} /></a>
+          <a href='https://www.missangelinesdenton.com/'><img src={"/angelines.png"} /></a>
         </div>
       </body>
     </div>
