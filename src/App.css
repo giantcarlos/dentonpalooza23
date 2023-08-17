@@ -150,12 +150,12 @@ a {
   .image-grid {
     --num-cols: 3;
     --row-height: 50px;
-    margin-left: 32px;
-    margin-right: 32px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
   .container {
-    margin-left: 4.4rem;
-    margin-right: 4.4rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
   }
   .card {
     padding: 1.25rem;
