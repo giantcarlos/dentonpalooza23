@@ -9,6 +9,19 @@ function App() {
         <hr />
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
       </header>
+      <body>
+        <div class="image-grid">
+          <img src={"/recycled.png"} />
+          <img src={"/morefun.png"} />
+          <img src={"/orbit.png"} />
+          <img src={"/littleguys.png"} />
+          <img src={"/smilinricks.png"} />
+          <img src={"/oakst.png"} />
+          <img src={"/eastside.jpg"} />
+          <img src={"/angelines.png"} />
+          <img src={"/dans.png"} />
+        </div>
+      </body>
     </div>
   );
 }
