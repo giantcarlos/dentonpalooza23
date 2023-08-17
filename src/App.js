@@ -33,7 +33,7 @@ function App() {
           </a>
         </div>
         <div className="card">
-          <div className="card-title">Flyer / Performers</div>
+          <div className="card-title">Performers / Attractions</div>
           <div className="card-image">
             <img src={"/dentonpaloozaflyer.jpg"} />
           </div>
