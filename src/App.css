@@ -58,7 +58,7 @@ hr {
 }
 
 .container {
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
   margin-left: 7rem;
   margin-right: 7rem;
   display: grid;
@@ -167,5 +167,8 @@ a {
     width: 40%;
     font-family: inherit;
     padding: .5rem 1.5rem;
+  }
+  .footer-detail {
+    font-size: 1.1rem;
   }
 }
