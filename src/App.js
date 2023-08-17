@@ -28,6 +28,23 @@ function App() {
           </div>
           <div className="card-details">Tickets go on sale to the general public on September 1, 2023.</div>
           <div className="card-details">Tickets are priced at $20 per ticket.</div>
+          <a href='https://www.prekindle.com/event/33981-dentonpalooza-3-denton' target="_blank">
+            <button className="button">BUY NOW</button>
+          </a>
+        </div>
+        <div className="card">
+          <div className="card-title">Flyer / Performers</div>
+          <div className="card-image">
+            <img src={"/dentonpaloozaflyer.jpg"} />
+          </div>
+        </div>
+      </div>
+      <div className="footer">
+      <div className="footer-detail">Follow us on Instragram&nbsp;
+          <a href='https://www.instagram.com/dentonpalooza/' target="_blank">@dentonpalooza</a>
+        </div>
+        <div className="footer-detail">Website design by&nbsp;
+          <a href='https://www.giantcarlos.com/' target="_blank">Gian Carlos</a>
         </div>
       </div>
     </>

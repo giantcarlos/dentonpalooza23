@@ -92,7 +92,7 @@ hr {
 }
 
 .card:hover > .card-image > img {
-  transform: scale(1.025);
+  transform: scale(1.05);
 }
 
 .card-title {
@@ -104,6 +104,34 @@ hr {
 .card-details {
   font-size: 1.1rem;
   margin-bottom: .5rem;
+}
+
+button {
+  width: 20%;
+  font-family: inherit;
+  padding: .5rem 1.5rem;
+  background-color: white;
+  margin-top: .75rem;
+}
+
+.button:hover, .button:focus {
+  background: #ddd;
+  color: #111;
+  cursor: pointer;
+}
+
+.footer {
+  margin-bottom: 3rem;
+}
+
+.footer-detail {
+  font-size: 1.2rem;
+  line-height: 1.75;
+}
+
+a {
+  text-decoration: none;
+  color: maroon;
 }
 
 @media only screen and (max-width: 900px) {
@@ -131,5 +159,13 @@ hr {
   }
   .card {
     padding: 1.25rem;
+  }
+  .card-title {
+    font-size: 1.2rem;
+  }
+  button {
+    width: 40%;
+    font-family: inherit;
+    padding: .5rem 1.5rem;
   }
 }
