@@ -169,15 +169,15 @@ a {
     --gap: 20px;
     --num-cols: 2;
     --row-height: 50px;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
   .message {
     font-size: 1rem;
   }
   .container {
-    margin-left: 3rem;
-    margin-right: 3rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
   }
   .card {
     padding: 1.25rem;
