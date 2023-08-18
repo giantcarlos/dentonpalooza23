@@ -149,7 +149,7 @@ button {
 
 a {
   text-decoration: none;
-  color: red;
+  color: rgb(185, 0, 0);
 }
 
 @media only screen and (max-width: 900px) {
