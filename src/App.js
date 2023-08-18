@@ -28,8 +28,8 @@ function App() {
           </div>
           <div className="card-details">Each ticket is priced at $20.</div>
           <div className="card-details">Proceeds go to&nbsp; 
-            <a href="https://dmacdenton.org/">Denton Music and Arts Collaborative</a> and&nbsp; 
-            <a href="https://leukemiatexas.org/">Leukemia Texas.</a>
+            <a href="https://dmacdenton.org/" target="_blank">Denton Music and Arts Collaborative</a> and&nbsp; 
+            <a href="https://leukemiatexas.org/" target="_blank">Leukemia Texas.</a>
           </div>
           <a href='https://www.prekindle.com/event/33981-dentonpalooza-3-denton' target="_blank">
             <button className="button">BUY NOW</button>
