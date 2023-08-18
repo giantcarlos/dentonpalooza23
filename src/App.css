@@ -2,8 +2,8 @@ body {
   animation: fadeIn .75s;
   margin: 0;
   font-family: Arial Black, Arial, Helvetica, sans-serif;
-  background-color: white;
-  color: #303030;
+  background-color: #000000;
+  color: rgb(220, 220, 220);
   text-align: center;
 }
 
@@ -17,11 +17,13 @@ header {
 h2 {
   font-size: 31.5px;
   font-weight: 500;
+  color: #555555;
 }
 
 h3 {
   font-size: 24px;
   font-weight: 500;
+  color: #555555;
 }
 
 hr {
@@ -29,7 +31,7 @@ hr {
   height: 1.2px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #303030;
+  background-color: #555555;
 }
 
 .image-grid {
@@ -58,6 +60,18 @@ hr {
   transform: scale(1.1);
 }
 
+.image-reverse {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+.image-reverse-gray {
+  filter: invert(1) hue-rotate(180deg) grayscale();;
+}
+
+.image-orbit {
+  filter: invert(1) hue-rotate(180deg);
+}
+
 .container {
   font-family: Arial, Helvetica, sans-serif;
   margin-bottom: 3rem;
@@ -66,16 +80,15 @@ hr {
   display: grid;
   gap: 2rem;
   align-items: center;
-  animation: fadeIn .5s;
 }
 
 .card {
-  max-width: 1080px;
+  max-width: 87%;
   margin-left: auto;
   margin-right: auto;
   padding: 1.75rem;
   text-align: left;
-  background: white;
+  background-color: #222222;
   border-radius: .25rem;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 2);
 }
@@ -89,12 +102,7 @@ hr {
   float: right;
   width: 100%;
   object-fit: cover;
-  transition: 200ms transform ease-in-out;
   margin-bottom: 1rem;
-}
-
-.card:hover > .card-image > img {
-  transform: scale(1.05);
 }
 
 .card-title {
@@ -112,12 +120,12 @@ button {
   width: 20%;
   font-family: inherit;
   padding: .5rem 1.5rem;
-  background-color: white;
+  background-color: rgb(199, 199, 199);
   margin-top: .75rem;
 }
 
 .button:hover, .button:focus {
-  background: #ddd;
+  background: #dfdfdf;
   color: #111;
   cursor: pointer;
 }
@@ -134,7 +142,7 @@ button {
 
 a {
   text-decoration: none;
-  color: maroon;
+  color: rgb(199, 0, 0);
 }
 
 @media only screen and (max-width: 900px) {
