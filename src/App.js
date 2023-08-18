@@ -26,8 +26,11 @@ function App() {
           <div className="card-image">
             <img src={"https://i.imgur.com/HBadz63.jpg"} />
           </div>
-          <div className="card-details">Tickets go on sale to the general public on September 1, 2023.</div>
           <div className="card-details">Each ticket is priced at $20.</div>
+          <div className="card-details">Proceeds go to&nbsp; 
+            <a href="https://dmacdenton.org/">Denton Music and Arts Collaborative</a> and&nbsp; 
+            <a href="https://leukemiatexas.org/">Leukemia Texas.</a>
+          </div>
           <a href='https://www.prekindle.com/event/33981-dentonpalooza-3-denton' target="_blank">
             <button className="button">BUY NOW</button>
           </a>
