@@ -167,7 +167,7 @@ a {
   }
   .image-grid {
     --gap: 20px;
-    --num-cols: 4;
+    --num-cols: 3;
     --row-height: 50px;
     margin-left: 15px;
     margin-right: 15px;
