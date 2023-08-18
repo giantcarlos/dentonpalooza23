@@ -5,6 +5,7 @@ input {
   }
 
 body {
+  animation: fadeIn .75s;
   margin: 0;
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   background-color: white;
@@ -142,16 +143,16 @@ a {
 
 @media only screen and (max-width: 900px) {
   header {
-    font-size: 42px;
+    font-size: 38px;
   }
   h2 {
-    font-size: 21px;
+    font-size: 19px;
   }
   h3 {
-    font-size: 16px;
+    font-size: 14.5px;
   }
   hr {
-    width: 285px;
+    width: 260px;
   }
   .image-grid {
     --gap: 20px;
