@@ -167,13 +167,13 @@ a {
   }
   .image-grid {
     --gap: 20px;
-    --num-cols: 3;
+    --num-cols: 2;
     --row-height: 50px;
     margin-left: 15px;
     margin-right: 15px;
   }
   .message {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
   .container {
     margin-left: 3rem;
