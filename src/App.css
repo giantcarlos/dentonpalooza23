@@ -1,31 +1,31 @@
 body {
   animation: fadeIn .75s;
   margin: 0;
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Arial Black, Arial, Helvetica, sans-serif;
   background-color: white;
   color: #303030;
   text-align: center;
 }
 
 header {
-  font-size: 68px;
+  font-size: 54px;
   font-weight: 900;
   line-height: 0;
   letter-spacing: -1px;
 }
 
 h2 {
-  font-size: 33px;
+  font-size: 31.5px;
   font-weight: 500;
 }
 
 h3 {
-  font-size: 25.25px;
+  font-size: 24px;
   font-weight: 500;
 }
 
 hr {
-  width: 470px;
+  width: 515px;
   height: 1.2px;
   margin-left: auto;
   margin-right: auto;
@@ -59,6 +59,7 @@ hr {
 }
 
 .container {
+  font-family: Arial, Helvetica, sans-serif;
   margin-bottom: 3rem;
   margin-left: 9rem;
   margin-right: 9rem;
@@ -122,6 +123,7 @@ button {
 }
 
 .footer {
+  font-family: Arial, Helvetica, sans-serif;
   margin-bottom: 3rem;
 }
 
@@ -137,16 +139,16 @@ a {
 
 @media only screen and (max-width: 900px) {
   header {
-    font-size: 38px;
+    font-size: 37px;
   }
   h2 {
-    font-size: 19px;
+    font-size: 22px;
   }
   h3 {
-    font-size: 14.5px;
+    font-size: 16.75px;
   }
   hr {
-    width: 260px;
+    width: 348px;
   }
   .image-grid {
     --gap: 20px;
