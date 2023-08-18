@@ -139,16 +139,16 @@ a {
 
 @media only screen and (max-width: 900px) {
   header {
-    font-size: 37px;
+    font-size: 32px;
   }
   h2 {
-    font-size: 22px;
+    font-size: 19px;
   }
   h3 {
-    font-size: 16.75px;
+    font-size: 14.75px;
   }
   hr {
-    width: 348px;
+    width: 300px;
   }
   .image-grid {
     --gap: 20px;
