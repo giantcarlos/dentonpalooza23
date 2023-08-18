@@ -72,8 +72,15 @@ hr {
   filter: invert(1) hue-rotate(180deg);
 }
 
+.message {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
 .container {
   font-family: Arial, Helvetica, sans-serif;
+  margin-top: 2.25rem;
   margin-bottom: 3rem;
   margin-left: 9rem;
   margin-right: 9rem;
@@ -142,7 +149,7 @@ button {
 
 a {
   text-decoration: none;
-  color: rgb(199, 0, 0);
+  color: red;
 }
 
 @media only screen and (max-width: 900px) {
@@ -160,10 +167,13 @@ a {
   }
   .image-grid {
     --gap: 20px;
-    --num-cols: 3;
+    --num-cols: 4;
     --row-height: 50px;
     margin-left: 15px;
     margin-right: 15px;
+  }
+  .message {
+    font-size: 1.1rem;
   }
   .container {
     margin-left: 3rem;
