@@ -27,7 +27,7 @@ function App() {
             <img src={"https://i.imgur.com/HBadz63.jpg"} />
           </div>
           <div className="card-details">Each ticket is priced at $20.</div>
-          <div className="card-details">Funda raised will benefit both the&nbsp; 
+          <div className="card-details">Funds raised will benefit both the&nbsp; 
             <a href="https://dmacdenton.org/" target="_blank">Denton Music and Arts Collaborative</a> and&nbsp; 
             <a href="https://leukemiatexas.org/" target="_blank">Leukemia Texas.</a>
           </div>
