@@ -68,6 +68,10 @@ hr {
   filter: invert(1) hue-rotate(180deg) grayscale();;
 }
 
+.image-rick {
+  filter: brightness(1.75);
+}
+
 .image-orbit {
   filter: invert(1) hue-rotate(180deg);
 }

@@ -14,7 +14,7 @@ function App() {
           <a href='https://www.morefuncomicsandgames.com/' className='image-reverse'><img src={"https://i.imgur.com/k8Vheyt.png"} /></a>
           <a href='https://orbitpressusa.com/'><img src={"https://i.imgur.com/FzRrdWC.png"} /></a>
           <a href='https://www.littleguys.com/' className='image-reverse-gray'><img src={"https://i.imgur.com/24seD6Q.png"} /></a>
-          <a href='https://www.smilinrickstattoos.com/'><img src={"https://static.wixstatic.com/media/7bb04e_5bff94f3a5ff437a934f80f543555e5f~mv2_d_1842_1200_s_2.png/v1/fill/w_460,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smilinrickssign.png"} /></a>
+          <a href='https://www.smilinrickstattoos.com/' className="image-rick"><img src={"https://static.wixstatic.com/media/7bb04e_5bff94f3a5ff437a934f80f543555e5f~mv2_d_1842_1200_s_2.png/v1/fill/w_460,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/smilinrickssign.png"} /></a>
           <a href='https://danssilverleaf.com/'><img src={"https://i.imgur.com/jHoY46F.png"} /></a>
           <a href='https://oakstreetdrafthouse.com/' className='image-reverse'><img src={"https://i.imgur.com/L1Jf7L6.png"} /></a>
           <a href='https://www.eastsidedtx.com/' className='image-reverse'><img src={"https://i.imgur.com/CWrmgQg.jpg"} /></a>
