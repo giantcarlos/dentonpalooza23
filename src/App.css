@@ -114,7 +114,8 @@ hr {
 }
 
 button {
-  width: 20%;
+  -webkit-appearance: none;
+  width: 22%;
   font-family: inherit;
   padding: .5rem 1.5rem;
   background-color: white;
@@ -173,7 +174,6 @@ a {
   }
   button {
     width: 40%;
-    font-family: inherit;
     padding: .5rem 1.5rem;
   }
   .footer-detail {
