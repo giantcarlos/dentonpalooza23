@@ -65,8 +65,8 @@ hr {
 
 .container {
   margin-bottom: 3rem;
-  margin-left: 7rem;
-  margin-right: 7rem;
+  margin-left: 9rem;
+  margin-right: 9rem;
   display: grid;
   gap: 2rem;
   align-items: center;
@@ -154,14 +154,15 @@ a {
     width: 285px;
   }
   .image-grid {
+    --gap: 20px;
     --num-cols: 3;
     --row-height: 50px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
   }
   .container {
-    margin-left: 3.5rem;
-    margin-right: 3.5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
   }
   .card {
     padding: 1.25rem;
