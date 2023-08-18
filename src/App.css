@@ -135,7 +135,7 @@ a {
   color: maroon;
 }
 
-@media only screen and (max-width: 900px) and (orientation : portrait) {
+@media only screen and (max-width: 900px) {
   header {
     font-size: 38px;
   }
