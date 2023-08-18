@@ -15,6 +15,7 @@ This is a freelance project and the official website of Denton's Dentonpalooza F
 ---
 
 - https://dentonpalooza.com/
+- https://giantcarlos.github.io/dentonpalooza23/
 
 
 ### **Github**
