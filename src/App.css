@@ -78,8 +78,8 @@ hr {
 
 .message {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.4rem;
-  font-weight: 800;
+  font-size: 1.618rem;
+  font-weight: bold;
 }
 
 .container {
@@ -117,13 +117,13 @@ hr {
 }
 
 .card-title {
-  font-size: 1.5rem;
+  font-size: 1.618rem;
   font-weight: bold;
   margin-bottom: 1rem;
 }
 
 .card-details {
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-bottom: .5rem;
 }
 
@@ -147,7 +147,7 @@ button {
 }
 
 .footer-detail {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.75;
 }
 
@@ -188,7 +188,7 @@ a {
     padding: 1.25rem;
   }
   .card-title {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   button {
     border: 1.5px solid #303030;;
@@ -201,7 +201,7 @@ a {
     margin-bottom: 2rem;
   }
   .footer-detail {
-    font-size: .9rem;
+    font-size: 1rem;
   }
 }
 @media only screen 

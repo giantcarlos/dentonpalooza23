@@ -24,7 +24,7 @@ function App() {
       <div className="message">A big thanks to our sponsors!</div>
       <div className="container">
         <div className="card">
-          <div className="card-title">TICKET INFORMATION</div>
+          <div className="card-title">Ticket Information</div>
           <div className="card-image">
             <img src={"https://i.imgur.com/HBadz63.jpg"} />
           </div>
@@ -38,7 +38,7 @@ function App() {
           </a>
         </div>
         <div className="card">
-          <div className="card-title">ATTRACTIONS</div>
+          <div className="card-title">Performers and Attractions</div>
           <div className="card-image">
             <img src={"https://i.imgur.com/xernEA1.png"} />
           </div>
