@@ -37,7 +37,7 @@ hr {
 .image-grid {
   --gap: 32px;
   --num-cols: 5;
-  --row-height: 75px;
+  --row-height: 80px;
 
   box-sizing: border-box;
   padding: 36px;
