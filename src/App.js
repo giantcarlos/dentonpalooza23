@@ -38,7 +38,7 @@ function App() {
           </a>
         </div>
         <div className="card">
-          <div className="card-title">Performers and Attractions</div>
+          <div className="card-title">Performers & Attractions</div>
           <div className="card-image">
             <img src={"https://i.imgur.com/xernEA1.png"} />
           </div>
