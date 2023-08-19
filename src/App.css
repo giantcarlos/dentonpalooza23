@@ -182,6 +182,7 @@ a {
   .container {
     margin-left: 2rem;
     margin-right: 2rem;
+    margin-top: 2rem;
   }
   .card {
     padding: 1.25rem;
@@ -196,8 +197,11 @@ a {
     padding: .5rem 1.2rem;
     color: #303030;
   }
+  .footer {
+    margin-bottom: 2rem;
+  }
   .footer-detail {
-    font-size: 1.1rem;
+    font-size: .9rem;
   }
 }
 @media only screen 
