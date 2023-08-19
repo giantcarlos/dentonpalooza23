@@ -193,9 +193,9 @@ a {
   }
   button {
     border: 1.5px solid #303030;;
-    width: 40%;
+    width: 42%;
     font-family: inherit;
-    font-size: 1;
+    font-size: .9;
     padding: .875rem 1rem;
     color: #303030;
   }
