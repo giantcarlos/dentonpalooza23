@@ -130,7 +130,7 @@ button {
   width: 20%;
   font-family: inherit;
   font-size: 1.125rem;
-  padding: 1.25rem 1.5rem;
+  padding: 1.25rem 1.25rem;
   border: none;
   color: #111;
   background-color: rgb(220, 220, 220);;
@@ -196,7 +196,7 @@ a {
     width: 45%;
     font-family: inherit;
     font-size: .875rem;
-    padding: .75rem 1.25rem;
+    padding: .75rem 1rem;
     color: #303030;
   }
   .footer {
