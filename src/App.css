@@ -193,10 +193,9 @@ a {
   }
   button {
     border: 1.5px solid #303030;;
-    width: 42%;
+    width: 40%;
     font-family: inherit;
-    font-size: .9;
-    padding: .875rem 1rem;
+    padding: 1rem 1rem;
     color: #303030;
   }
   .footer {
