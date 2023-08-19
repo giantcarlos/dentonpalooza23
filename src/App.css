@@ -134,8 +134,7 @@ button {
   border: none;
   color: #111;
   background-color: rgb(220, 220, 220);;
-  margin-top: 1.5rem;
-  margin-bottom: .5rem;
+  margin-top: .75rem;
 }
 
 .button:hover, .button:focus {
@@ -196,6 +195,7 @@ a {
     border: 1.5px solid #303030;;
     width: 40%;
     font-family: inherit;
+    font-size: 1;
     padding: .875rem 1rem;
     color: #303030;
   }
