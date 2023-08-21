@@ -19,7 +19,6 @@ function App() {
           <a href='https://oakstreetdrafthouse.com/' className='image-reverse'><img src={"https://i.imgur.com/L1Jf7L6.png"} /></a>
           <a href='https://www.eastsidedtx.com/' className='image-reverse'><img src={"https://i.imgur.com/CWrmgQg.jpg"} /></a>
           <a href='https://www.missangelinesdenton.com/' className='image-reverse'><img src={"https://i.imgur.com/GBB5S1l.png"} /></a>
-          <a href='https://www.osteriamuro.com/' className='image-reverse-gray'><img src={"https://static.wixstatic.com/media/e79e3c_e33fc1745ca043869e93a731355ea4af~mv2.png/v1/fill/w_512,h_238,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Osteria%20Il%20Muro%20Logo_horizontal.png"} /></a>
       </div>
       <div className="message">A big thanks to our sponsors!</div>
       <div className="container">
