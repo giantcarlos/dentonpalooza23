@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dentonpalooza23/static/css/main.ae17d341.css",
+    "main.css": "/dentonpalooza23/static/css/main.a1446a78.css",
     "main.js": "/dentonpalooza23/static/js/main.8527cccb.js",
     "static/js/787.799c5561.chunk.js": "/dentonpalooza23/static/js/787.799c5561.chunk.js",
     "index.html": "/dentonpalooza23/index.html",
-    "main.ae17d341.css.map": "/dentonpalooza23/static/css/main.ae17d341.css.map",
+    "main.a1446a78.css.map": "/dentonpalooza23/static/css/main.a1446a78.css.map",
     "main.8527cccb.js.map": "/dentonpalooza23/static/js/main.8527cccb.js.map",
     "787.799c5561.chunk.js.map": "/dentonpalooza23/static/js/787.799c5561.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae17d341.css",
+    "static/css/main.a1446a78.css",
     "static/js/main.8527cccb.js"
   ]
 }
