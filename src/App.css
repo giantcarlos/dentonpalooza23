@@ -37,7 +37,7 @@ hr {
 .image-grid {
   --gap: 32px;
   --num-cols: 5;
-  --row-height: 80px;
+  --row-height: 75px;
 
   box-sizing: border-box;
   padding: 36px;
@@ -78,7 +78,7 @@ hr {
 
 .message {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.618rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -116,7 +116,7 @@ hr {
 }
 
 .card-title {
-  font-size: 1.618rem;
+  font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 1.25rem;
 }
