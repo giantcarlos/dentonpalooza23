@@ -19,11 +19,12 @@ function App() {
           <a href='https://oakstreetdrafthouse.com/' className='image-reverse'><img src={"https://i.imgur.com/L1Jf7L6.png"} /></a>
           <a href='https://www.eastsidedtx.com/' className='image-reverse'><img src={"https://i.imgur.com/CWrmgQg.jpg"} /></a>
           <a href='https://www.missangelinesdenton.com/' className='image-reverse'><img src={"https://i.imgur.com/GBB5S1l.png"} /></a>
+          <div className="message-desktop">A big thanks to our sponsors!</div>
       </div>
-      <div className="message">A big thanks to our sponsors!</div>
+      <div className="message-mobile">A big thanks to our sponsors!</div>
       <div className="container">
         <div className="card">
-          <div className="card-title">Ticket Information</div>
+          <div className="card-title">TICKET INFORMATION</div>
           <div className="card-image">
             <img src={"https://i.imgur.com/HBadz63.jpg"} />
           </div>
@@ -37,10 +38,11 @@ function App() {
           </a>
         </div>
         <div className="card">
-          <div className="card-title">Lineup</div>
+          <div className="card-title">LINEUP / SCHEDULE</div>
           <div className="card-image">
             <img src={"https://i.imgur.com/xernEA1.png"} />
           </div>
+          <div className="card-details">The complete timetable will be available the week of the event.</div>
         </div>
       </div>
       <div className="footer">
