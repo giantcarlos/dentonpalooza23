@@ -203,7 +203,7 @@ a {
   button {
     border: 1.5px solid #303030;;
     width: 45%;
-    font-family: inherit;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: .875rem;
     padding: .75rem 1rem;
     color: #303030;
@@ -222,7 +222,6 @@ and (orientation : landscape) {
   button {
     border: 1.5px solid #303030;;
     width: 40%;
-    font-family: inherit;
     padding: .5rem 1.2rem;
     color: #303030;
   }
