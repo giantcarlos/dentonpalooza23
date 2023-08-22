@@ -42,7 +42,7 @@ function App() {
           <div className="card-image">
             <img src={"https://i.imgur.com/xernEA1.png"} />
           </div>
-          <div className="card-details">The complete timetable will be available closer to the week of the event.</div>
+          <div className="card-details">A complete timetable will be available closer to the week of the event.</div>
         </div>
       </div>
       <div className="footer">
