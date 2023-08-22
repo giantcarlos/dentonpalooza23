@@ -10,26 +10,26 @@ body {
 header {
   margin-left: auto;
   margin-right: auto;
-  font-size: 60px;
+  font-size: 56px;
   font-weight: 900;
   line-height: 0;
   letter-spacing: -1px;
 }
 
 h2 {
-  font-size: 38.5px;
+  font-size: 36px;
   font-weight: 500;
   color: #555555;
 }
 
 h3 {
-  font-size: 29.5px;
+  font-size: 27.675px;
   font-weight: 500;
   color: #555555;
 }
 
 hr {
-  width: 632px;
+  width: 590px;
   height: 1.2px;
   margin-left: auto;
   margin-right: auto;
