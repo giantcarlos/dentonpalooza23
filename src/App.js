@@ -37,7 +37,7 @@ function App() {
           </a>
         </div>
         <div className="card">
-          <div className="card-title">LINEUP / SCHEDULE</div>
+          <div className="card-title">LINEUP & SCHEDULE</div>
           <div className="card-image">
             <img src={"https://i.imgur.com/xernEA1.png"} alt='image of the Flyer' />
           </div>
