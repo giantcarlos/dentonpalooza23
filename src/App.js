@@ -41,22 +41,26 @@ function App() {
           <div className="card-image">
             <img src={"https://i.imgur.com/xernEA1.png"} alt='image of the Flyer' />
           </div>
-          <div className="card-details">4:00pm -- Doors Open</div>
-          <div className="card-details">4:30pm -- Sidewalk Chalk Art Expo + DJ Justrill</div>
-          <div className="card-details">6:00pm --&nbsp;
-          <a href='https://bluberrytuesday.bandcamp.com/' target="_blank">Blüberry Tüesday</a></div>
-          <div className="card-details">7:00pm -- Gary: Dog Mayor Re-Election Kickoff</div>
-          <div className="card-details">7:15pm --&nbsp;
-          <a href='https://linktr.ee/smotheredband' target="_blank">Smothered</a></div>
-          <div className="card-details">8:15pm -- Do You Know Your Cheese with Secret Chef Lanky</div>
-          <div className="card-details">8:45pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
-          <div className="card-details">9:00pm --&nbsp;
-          <a href='https://doforitrecords.com/shaolin-death-squad/' target="_blank">Shaolin Death Squad</a></div>
-          <div className="card-details">10:15pm -- $666 Costume Contest with Taffeta Darling</div>
-          <div className="card-details">11:30pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
-          <div className="card-details">11:45pm --&nbsp;
-          <a href='https://sarahjaffe.com/' target="_blank">Sarah Jaffe</a></div>
-          <div className="card-details">1:30am -- End of Show</div>
+          <div className="schedule-left">
+            <div className="card-details">4:00pm -- Doors Open</div>
+            <div className="card-details">4:30pm -- Sidewalk Chalk Art Expo + DJ Justrill</div>
+            <div className="card-details">6:00pm --&nbsp;
+            <a href='https://bluberrytuesday.bandcamp.com/' target="_blank">Blüberry Tüesday</a></div>
+           <div className="card-details">7:00pm -- Gary: Dog Mayor Re-Election Kickoff</div>
+            <div className="card-details">7:15pm --&nbsp;
+            <a href='https://linktr.ee/smotheredband' target="_blank">Smothered</a></div>
+           <div className="card-details">8:15pm -- Do You Know Your Cheese with Secret Chef Lanky</div>
+          </div>
+          <div className="schedule-right">
+            <div className="card-details">8:45pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
+            <div className="card-details">9:00pm --&nbsp;
+            <a href='https://doforitrecords.com/shaolin-death-squad/' target="_blank">Shaolin Death Squad</a></div>
+            <div className="card-details">10:15pm -- $666 Costume Contest with Taffeta Darling</div>
+            <div className="card-details">11:30pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
+            <div className="card-details">11:45pm --&nbsp;
+            <a href='https://sarahjaffe.com/' target="_blank">Sarah Jaffe</a></div>
+            <div className="card-details">1:30am -- End of Show</div>
+          </div>
         </div>
       </div>
       <div className="footer">

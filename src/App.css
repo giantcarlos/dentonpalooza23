@@ -148,6 +148,16 @@ button {
   cursor: pointer;
 }
 
+.schedule-left {
+  width: 50%;
+  float: left;
+}
+
+.schedule-right {
+  width: 50%;
+  float: right;
+}
+
 .footer {
   font-family: Helvetica, Arial, sans-serif;
   margin-bottom: 3rem;
@@ -214,6 +224,12 @@ a {
     font-size: .875rem;
     padding: .75rem 1rem;
     color: #303030;
+  }
+  .schedule-left {
+    width: 100%;
+  }
+  .schedule-right {
+    width: 100%;
   }
   .footer {
     margin-bottom: 2rem;
