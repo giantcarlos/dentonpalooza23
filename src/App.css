@@ -71,10 +71,6 @@ hr {
   filter: invert(1) hue-rotate(180deg) grayscale();;
 }
 
-.image-rick {
-  filter: brightness(1.75);
-}
-
 .image-orbit {
   filter: invert(1) hue-rotate(180deg);
 }
@@ -149,13 +145,17 @@ button {
   cursor: pointer;
 }
 
-.schedule-left {
-  width: 48%;
+.schedule-image {
+  width: 45%;
   float: left;
 }
 
-.schedule-right {
-  width: 50%;
+.schedule-image > img {
+  width: 110%;
+}
+
+.schedule {
+  width: 48%;
   float: right;
 }
 
@@ -226,11 +226,16 @@ a {
     padding: .75rem 1rem;
     color: #303030;
   }
-  .schedule-left {
+  .schedule-image {
     width: 100%;
   }
-  .schedule-right {
+  .schedule-image > img {
     width: 100%;
+  }
+  .schedule {
+    margin-top: 1rem;
+    width: 100%;
+    float: left;
   }
   .footer {
     margin-bottom: 2rem;

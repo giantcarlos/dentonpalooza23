@@ -38,20 +38,18 @@ function App() {
         </div>
         <div className="card">
           <div className="card-title">LINEUP & SCHEDULE</div>
-          <div className="card-image">
+          <div className="schedule-image">
             <img src={"https://i.imgur.com/xernEA1.png"} alt='image of the Flyer' />
           </div>
-          <div className="schedule-left">
+          <div className="schedule">
             <div className="card-details">4:00pm -- Doors Open</div>
             <div className="card-details">4:30pm -- Sidewalk Chalk Art Expo + DJ Justrill</div>
             <div className="card-details">6:00pm --&nbsp;
             <a href='https://bluberrytuesday.bandcamp.com/' target="_blank">Blüberry Tüesday</a></div>
-           <div className="card-details">7:00pm -- Gary: Dog Mayor Re-Election Kickoff</div>
+            <div className="card-details">7:00pm -- Gary: Dog Mayor Re-Election Kickoff</div>
             <div className="card-details">7:15pm --&nbsp;
             <a href='https://linktr.ee/smotheredband' target="_blank">Smothered</a></div>
-           <div className="card-details">8:15pm -- Do You Know Your Cheese with Secret Chef Lanky</div>
-          </div>
-          <div className="schedule-right">
+            <div className="card-details">8:15pm -- Do You Know Your Cheese with Secret Chef Lanky</div>
             <div className="card-details">8:45pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
             <div className="card-details">9:00pm --&nbsp;
             <a href='https://doforitrecords.com/shaolin-death-squad/' target="_blank">Shaolin Death Squad</a></div>
