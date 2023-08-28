@@ -218,6 +218,10 @@ a {
   .card-title {
     font-size: 1.125rem;
   }
+  .card-details {
+    font-size: .925rem;
+    line-height: 1.25;
+  }
   button {
     border: 1.5px solid #303030;;
     width: 45%;
@@ -241,7 +245,7 @@ a {
     margin-bottom: 2rem;
   }
   .footer-detail {
-    font-size: 1rem;
+    font-size: .925rem;
   }
 }
 @media only screen 
