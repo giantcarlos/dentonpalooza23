@@ -146,16 +146,16 @@ button {
 }
 
 .schedule-image {
-  width: 45%;
+  width: 48.75%;
   float: left;
 }
 
 .schedule-image > img {
-  width: 110%;
+  width: 100%;
 }
 
 .schedule {
-  width: 48%;
+  width: 48.75%;
   float: right;
 }
 
@@ -231,9 +231,6 @@ a {
     color: #303030;
   }
   .schedule-image {
-    width: 100%;
-  }
-  .schedule-image > img {
     width: 100%;
   }
   .schedule {
