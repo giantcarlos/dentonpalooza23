@@ -282,7 +282,7 @@ and (max-width : 1024px) {
 
 @media only screen and (max-width: 900px) {
   .image-grid {
-    --gap: 22.5px;
+    --gap: 20px;
     --num-cols: 3;
     --row-height: 65px;
     margin-left: auto;
