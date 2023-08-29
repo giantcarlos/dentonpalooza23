@@ -245,7 +245,24 @@ a {
   color: rgb(255, 0, 0);
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 1024px) {
+  header {
+    font-size: 42px;
+  }
+  h2 {
+    font-size: 27px;
+  }
+  h3 {
+    font-size: 20.75px;
+  }
+  hr {
+    width: 432px;
+  }
+}
+
+@media only screen and (max-width : 640px) {
   header {
     font-size: 29.1px;
   }
@@ -258,6 +275,12 @@ a {
   hr {
     width: 300px;
   }
+  .message-mobile {
+    font-size: .5rem;
+  }
+}
+
+@media only screen and (max-width: 900px) {
   .image-grid {
     --gap: 20px;
     --num-cols: 3;
