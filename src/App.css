@@ -51,8 +51,8 @@ hr {
 }
 
 .image-grid {
-  --gap: 32px;
-  --num-cols: 4;
+  --gap: 28px;
+  --num-cols: 5;
   --row-height: 75px;
 
   box-sizing: border-box;
@@ -85,19 +85,19 @@ hr {
   filter: invert(1) hue-rotate(180deg) grayscale();
 }
 
-.image-gray {
-  filter: grayscale();
+.image-reverse-gray-bright {
+  filter: invert(1) grayscale() brightness(130%);
 }
 
-.message-desktop {
+.image-gray {
+  filter: grayscale(100%) brightness(140%) contrast(140%);
+}
+
+.message {
   font-size: 1.375rem;
   font-style: italic;
   margin-bottom: 1.5rem;
 
-}
-
-.message-mobile {
-  display: none;
 }
 
 .container {
@@ -283,23 +283,17 @@ and (max-width : 1024px) {
 @media only screen and (max-width: 900px) {
   .image-grid {
     --gap: 20px;
-    --num-cols: 3;
+    --num-cols: 2;
     --row-height: 60px;
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
   }
-  .message-desktop {
-    display: none;
-  }
-  .message-mobile {
-    margin-top: auto;
-    margin-bottom: auto;
-    display: block;
+  .message {
     font-family: inherit;
     font-weight: bold;
     font-style: italic;
-    font-size: .85rem;
+    font-size: .925rem;
   }
   .container {
     max-width: 85%;
