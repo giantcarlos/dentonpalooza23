@@ -110,7 +110,7 @@ hr {
   display: flex;
   position: relative;
   overflow: hidden;
-  animation: slider 30s infinite;
+  animation: slider 30s;
 }
 
 .image-container > img {
