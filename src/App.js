@@ -10,16 +10,16 @@ function App() {
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
       </header>
       <div className="image-grid">
-          <a href='http://recycledbooks.com/' className='image-reverse-gray'><img src={"https://i.imgur.com/6F5XWoE.png"} alt='logo of Recycled Books' /></a>
-          <a href='https://orbitpressusa.com/' ><img src={"https://i.imgur.com/FzRrdWC.png"} alt='logo of Orbit' /></a>
-          <a href='https://www.morefuncomicsandgames.com/' className='image-reverse'><img src={"https://i.imgur.com/k8Vheyt.png"} alt='logo of More Fun Comics and Games' /></a>
-          <a href='https://www.littleguys.com/' className='image-reverse-gray'><img src={"https://i.imgur.com/24seD6Q.png"} alt='logo of Little Guys Movers' /></a>
-          <a href='https://www.barnhartsbarbershop.com/' className='image-gray'><img src={"https://i.imgur.com/nJXwjip.png"} alt='logo of Barnharts Barbershop' /></a>
-          <a href='https://danssilverleaf.com/' ><img src={"https://i.imgur.com/jHoY46F.png"} alt='logo of Dans Silverleaf' /></a>
-          <a href='https://oakstreetdrafthouse.com/' className='image-reverse'><img src={"https://i.imgur.com/L1Jf7L6.png"} alt='logo of Oak Street Drafthouse' /></a>
-          <a href='https://www.eastsidedtx.com/' className='image-reverse'><img src={"https://i.imgur.com/CWrmgQg.jpg"} alt='logo of Eastside' /></a>
-          <a href='https://www.missangelinesdenton.com/' className='image-reverse'><img src={"https://i.imgur.com/GBB5S1l.png"} alt='logo of Miss Angelines' /></a>
-          <a href='https://www.tenonecheese.com/' className='image-reverse-gray-bright'><img src={"https://static.wixstatic.com/media/8b7170_ee1b95bd9d0047f09d70ec2a56418d82~mv2_d_1962_2025_s_2.png/v1/crop/x_311,y_347,w_1341,h_1328/fill/w_382,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10-1_NW_2.png"} alt='logo of Ten One Cheese' /></a>
+          <a href='http://recycledbooks.com/' className='image-reverse-gray' target="_blank"><img src={"https://i.imgur.com/6F5XWoE.png"} alt='logo of Recycled Books' /></a>
+          <a href='https://orbitpressusa.com/' target="_blank"><img src={"https://i.imgur.com/FzRrdWC.png"} alt='logo of Orbit' /></a>
+          <a href='https://www.morefuncomicsandgames.com/' className='image-reverse' target="_blank"><img src={"https://i.imgur.com/k8Vheyt.png"} alt='logo of More Fun Comics and Games' /></a>
+          <a href='https://www.littleguys.com/' className='image-reverse-gray' target="_blank"><img src={"https://i.imgur.com/24seD6Q.png"} alt='logo of Little Guys Movers' /></a>
+          <a href='https://www.barnhartsbarbershop.com/' className='image-gray' target="_blank"><img src={"https://i.imgur.com/nJXwjip.png"} alt='logo of Barnharts Barbershop' /></a>
+          <a href='https://danssilverleaf.com/' target="_blank"><img src={"https://i.imgur.com/jHoY46F.png"} alt='logo of Dans Silverleaf' /></a>
+          <a href='https://oakstreetdrafthouse.com/' className='image-reverse' target="_blank"><img src={"https://i.imgur.com/L1Jf7L6.png"} alt='logo of Oak Street Drafthouse' /></a>
+          <a href='https://www.eastsidedtx.com/' className='image-reverse' target="_blank"><img src={"https://i.imgur.com/CWrmgQg.jpg"} alt='logo of Eastside' /></a>
+          <a href='https://www.missangelinesdenton.com/' className='image-reverse' target="_blank"><img src={"https://i.imgur.com/GBB5S1l.png"} alt='logo of Miss Angelines' /></a>
+          <a href='https://www.tenonecheese.com/' className='image-reverse-gray-bright' target="_blank"><img src={"https://static.wixstatic.com/media/8b7170_ee1b95bd9d0047f09d70ec2a56418d82~mv2_d_1962_2025_s_2.png/v1/crop/x_311,y_347,w_1341,h_1328/fill/w_382,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10-1_NW_2.png"} alt='logo of Ten One Cheese' /></a>
           <div className="message-mobile">A big thanks to our sponsors!</div>
       </div>
       <div className="message">A big thanks to our sponsors!</div>
@@ -51,17 +51,22 @@ function App() {
           </div>
           <div className="schedule">
             <div className="card-details">4:00pm -- Doors Open</div>
-            <div className="card-details">4:30pm -- Sidewalk Chalk Art Expo + DJ Justrill</div>
+            <div className="card-details">4:30pm -- Sidewalk Chalk Art Expo +&nbsp;
+            <a href='https://www.facebook.com/DJJustrill/' target="_blank">DJ Ju$trill</a></div>
             <div className="card-details">6:00pm --&nbsp;
             <a href='https://bluberrytuesday.bandcamp.com/' target="_blank">Blüberry Tüesday</a></div>
-            <div className="card-details">7:00pm -- Gary: Dog Mayor Re-Election Kickoff</div>
+            <div className="card-details">7:00pm --&nbsp;
+            <a href='https://www.instagram.com/hesagoodgary/' target="_blank">Gary</a>: Dog Mayor Re-Election Kickoff</div>
             <div className="card-details">7:15pm --&nbsp;
             <a href='https://linktr.ee/smotheredband' target="_blank">Smothered</a></div>
-            <div className="card-details">8:15pm -- Do You Know Your Cheese with Secret Chef Lanky</div>
+            <div className="card-details">8:10pm -- Protesting with Fred Flintsone</div>
+            <div className="card-details">8:15pm -- Do You Know Your Cheese with&nbsp;
+            <a href='https://www.instagram.com/lanky_likes_food/' target="_blank">Secret Chef Lanky</a></div>
             <div className="card-details">8:45pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
             <div className="card-details">9:00pm --&nbsp;
             <a href='https://doforitrecords.com/shaolin-death-squad/' target="_blank">Shaolin Death Squad</a></div>
-            <div className="card-details">10:15pm -- $666 Costume Contest with Taffeta Darling</div>
+            <div className="card-details">10:15pm -- $666 Costume Contest with&nbsp;
+            <a href='https://www.instagram.com/thetaffetadarling/' target="_blank">Taffeta Darling</a></div>
             <div className="card-details">11:30pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
             <div className="card-details">11:45pm --&nbsp;
             <a href='https://sarahjaffe.com/' target="_blank">Sarah Jaffe</a></div>
