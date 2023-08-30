@@ -53,7 +53,7 @@ hr {
 .image-grid {
   --gap: 28px;
   --num-cols: 6;
-  --row-height: 75px;
+  --row-height: 80px;
 
   box-sizing: border-box;
   padding: 36px;
@@ -94,7 +94,7 @@ hr {
 }
 
 .message {
-  font-size: 1.05rem;
+  font-size: .975rem;
   font-style: italic;
   margin-top: auto;
   margin-bottom: auto;
@@ -287,7 +287,7 @@ and (max-width : 1024px) {
     max-width: 100%;
   }
   .message {
-    font-size: 0.925rem;
+    font-size: 0.85rem;
   }
   .container {
     max-width: 85%;
