@@ -122,11 +122,11 @@ hr {
 
 .image-container {
   margin-bottom: 1.5rem;
-  width: 700%;
+  width: 800%;
   display: flex;
   position: relative;
   overflow: hidden;
-  animation: slider 30s;
+  animation: slider 32s;
 }
 
 .image-container > img {
@@ -139,44 +139,50 @@ hr {
   0% {
     left: 0;
   }
-  10% {
+  9% {
     left: 0;
   }
-  15% {
+  14% {
     left: -100%;
   }
-  25% {
+  23% {
     left: -100%;
   }
-  30% {
+  28% {
     left: -200%;
   }
-  35% {
+  37% {
     left: -200%;
   }
-  45% {
+  42% {
     left: -300%;
   }
-  55% {
+  47% {
     left: -300%;
   }
-  60% {
+  56% {
+    left: -400%;
+  }
+  61% {
     left: -400%;
   }
   70% {
-    left: -400%;
+    left: -500%;
   }
   75% {
     left: -500%;
   }
-  85% {
-    left: -500%;
-  }
-  90% {
+  84% {
     left: -600%;
+  }
+  89% {
+    left: -600%;
+  }
+  98% {
+    left: -700%;
   }
   100% {
-    left: -600%;
+    left: -700%;
   }
 }
 
@@ -299,7 +305,7 @@ and (max-width : 1024px) {
     font-size: 1.125rem;
   }
   .card-details {
-    font-size: .925rem;
+    font-size: .925rem;letter-spacing: normal;
   }
   button {
     border: 1.5px solid #303030;;
