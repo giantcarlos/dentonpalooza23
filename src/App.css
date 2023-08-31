@@ -126,7 +126,7 @@ hr {
   display: flex;
   position: relative;
   overflow: hidden;
-  animation: slider 32s;
+  animation: slider 28s;
 }
 
 .image-container > img {
@@ -145,37 +145,37 @@ hr {
   14% {
     left: -100%;
   }
-  23% {
+  24% {
     left: -100%;
   }
   28% {
     left: -200%;
   }
-  37% {
+  38% {
     left: -200%;
   }
   42% {
     left: -300%;
   }
-  47% {
+  52% {
     left: -300%;
   }
   56% {
     left: -400%;
   }
-  61% {
+  66% {
     left: -400%;
   }
   70% {
     left: -500%;
   }
-  75% {
+  80% {
     left: -500%;
   }
   84% {
     left: -600%;
   }
-  89% {
+  94% {
     left: -600%;
   }
   98% {
