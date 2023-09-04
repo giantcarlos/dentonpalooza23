@@ -78,7 +78,7 @@ function App() {
           <div className="card-title">PRESS</div>
           <div className="press-card">
             <div className="press">
-              <div className="card-details">"Dentonpalooza 3 books Sarah Jaffe, the drones we didn't get to see and Denton oddities..." -Denton Record-Chrinicle</div>
+              <div className="card-details">"Dentonpalooza 3 books Sarah Jaffe, the drones we didn't get to see and Denton oddities..." -Denton Record-Chronicle</div>
             </div>
             <div className="press-image">
               <img src={"https://i.imgur.com/ilvojaK.png"} alt='image of last years Dentonpalooza from Denton Record-Chronicle' />
@@ -86,7 +86,7 @@ function App() {
           </div>
           <div className="press-card">
             <div className="press">
-              <div className="card-details">"Dentonpalooza 3 books Sarah Jaffe, the drones we didn't get to see and Denton oddities..." -Denton Record-Chrinicle</div>
+              <div className="card-details">"Dentonpalooza 3 books Sarah Jaffe, the drones we didn't get to see and Denton oddities..." -Denton Record-Chronicle</div>
             </div>
             <div className="press-image">
               <img src={"https://media.licdn.com/dms/image/D5622AQEXNIm41dfiHA/feedshare-shrink_800/0/1689085585420?e=2147483647&v=beta&t=sWglAH5w5GjCir-4gU3n1l9ZUYRFHOAL69EbR7iRmWc"} alt='image of the Dallas Observer logo' />
