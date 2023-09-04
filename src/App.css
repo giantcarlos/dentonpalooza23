@@ -236,6 +236,27 @@ button {
   margin-bottom: 1.5rem;
 }
 
+.press-card {
+  margin-bottom: 13rem;
+}
+
+.press-image {
+  width: 30%;
+  float: right;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.press-image > img {
+  width: 100%;
+}
+
+.press {
+  width: 65%;
+  float: left;
+  margin-bottom: 1.5rem;
+}
+
 .footer {
   font-family: Helvetica, Arial, sans-serif;
   margin-bottom: 3rem;
