@@ -75,7 +75,7 @@ function App() {
           </div>
         </div>
         <div className="card">
-          <div className="card-title">PRESS</div>
+          <div className="card-title">PRESS RELEASES</div>
           <a href="https://www.dallasobserver.com/music/the-denton-meme-festival-dentonpalooza-is-back-for-a-third-year-17408197" target="_blank" className="press-card">
             <div className="press-image">
               <img src={"https://media2.dallasobserver.com/dal/imager/u/blog/17408201/joeyliechty_dentonpalooza.jpg?cb=1693947979"} className="image-gray" alt='image of previous Dentonpalooza from the Dallas Observer' />
