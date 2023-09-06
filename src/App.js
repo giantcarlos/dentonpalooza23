@@ -76,23 +76,27 @@ function App() {
         </div>
         <div className="card">
           <div className="card-title">PRESS</div>
-          <div className="press-card">
-            <div className="press">
-              <div className="card-details">"Dentonpalooza 3 books Sarah Jaffe, the drones we didn't get to see and Denton oddities..." -Denton Record-Chronicle</div>
-            </div>
+          <a href="https://www.dallasobserver.com/music/the-denton-meme-festival-dentonpalooza-is-back-for-a-third-year-17408197" target="_blank" className="press-card">
             <div className="press-image">
-              <img src={"https://i.imgur.com/ilvojaK.png"} alt='image of last years Dentonpalooza from Denton Record-Chronicle' />
+              <img src={"https://media2.dallasobserver.com/dal/imager/u/blog/17408201/joeyliechty_dentonpalooza.jpg?cb=1693947979"} className="image-gray" alt='image of previous Dentonpalooza from the Dallas Observer' />
             </div>
-          </div>
-          <div className="press-card">
             <div className="press">
-              <div className="card-details">"Dentonpalooza 3 books Sarah Jaffe, the drones we didn't get to see and Denton oddities..." -Denton Record-Chronicle</div>
+              <div className="card-details">September 6th, 2023</div>
+              <div className="press-title">Dentonpalooza Continues to Find the City's Quirkiest Characters</div>
+              <div className="card-details">Diamond Rodrigue / The Dallas Observer</div>
             </div>
+          </a>
+          <a href="https://dentonrc.com/entertainment/dentonpalooza-3-books-sarah-jaffe-the-drones-we-didn-t-get-to-see-and-denton/article_53fc4cbf-504e-5970-ad12-95789d5bdd1d.html?utm_source=dentonrc.com&utm_campaign=%2Fsearch%2Fsavedsearch%2Fexecute%2F%3Fd1%3Dyesterday%25209am%26d2%3Dtoday%25209am%26xd%3D1%26f%3Dhtml%26q%3Dliechty%26sd%3Ddesc%26l%3D25%26t%3Darticle%252Ccollection%252Cvideo%252Cyoutube%26nsa%3Deedition%26title%3DLiechty%2520search%2520notification&utm_medium=followed%20notification%20email&utm_content=headline" target="_blank"  className="press-card">
             <div className="press-image">
-              <img src={"https://media.licdn.com/dms/image/D5622AQEXNIm41dfiHA/feedshare-shrink_800/0/1689085585420?e=2147483647&v=beta&t=sWglAH5w5GjCir-4gU3n1l9ZUYRFHOAL69EbR7iRmWc"} alt='image of the Dallas Observer logo' />
+              <img src={"https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/e/47/e479803f-789a-5a20-8a0d-b142afd4c64e/64f242cd47de5.image.jpg?resize=1476%2C984"} className="image-gray" alt='image of last years Dentonpalooza from Denton Record-Chronicle' />
             </div>
-          </div>
-      </div>
+            <div className="press">
+            <div className="card-details">September 1st, 2023</div>
+              <div className="press-title">Dentonpalooza 3 Books Sarah Jaffe, the Drones We Didn't Get to See and Denton Oddities</div>
+              <div className="card-details">Juan Betancourt / Denton Record-Chronicle</div>
+            </div>
+          </a>
+        </div>
         </div>
       <div className="footer">
       <div className="footer-detail">Follow us on Instragram&nbsp;

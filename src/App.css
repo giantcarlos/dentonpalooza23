@@ -237,24 +237,46 @@ button {
 }
 
 .press-card {
-  margin-bottom: 13rem;
+  display: flex;
+  background-color: black;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: rgb(220, 220, 220);
+}
+
+.press-card:hover {
+  cursor: pointer;
+}
+
+.press-card:hover > .press-image > img {
+  transform: scale(1.075);
 }
 
 .press-image {
-  width: 30%;
+  width: 35%;
   float: right;
-  margin-right: 1.5rem;
-  margin-bottom: 1.5rem;
+  overflow: hidden;
 }
 
 .press-image > img {
   width: 100%;
+  transition: 200ms transform ease-in-out;
 }
 
 .press {
-  width: 65%;
+  width: 75%;
   float: left;
-  margin-bottom: 1.5rem;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.press-title {
+  color: red;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: .75rem;
 }
 
 .footer {
@@ -348,17 +370,14 @@ and (max-width : 1024px) {
     margin-bottom: .75rem;
   }
   .press-card {
-    margin-bottom: 1.5rem;
+    display: inline-block;
   }
   .press-image {
-    width: 40%;
-    margin-right: 1.5rem;
-    margin-bottom: 1.5rem;
+    width: 100%;
+    margin-bottom: .75rem;
   }
   .press {
-    width: 52.5%;
-    margin-right: .01rem;
-    margin-bottom: 1.5rem;
+    width: 100%;
   }
   .footer {
     margin-bottom: 2rem;
