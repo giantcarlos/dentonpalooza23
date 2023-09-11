@@ -82,7 +82,7 @@ hr {
 }
 
 .image-reverse-gray {
-  filter: invert(1) hue-rotate(180deg) grayscale();
+  filter: invert(1) hue-rotate(180deg) grayscale() brightness(160%);
 }
 
 .image-reverse-gray-bright {
