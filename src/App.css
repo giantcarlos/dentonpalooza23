@@ -250,7 +250,7 @@ button {
 }
 
 .press-card:hover > .press-image > img {
-  transform: scale(1.075);
+  transform: scale(1.05);
 }
 
 .press-image {
