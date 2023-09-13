@@ -48,7 +48,7 @@ function App() {
         <div className="card">
           <div className="card-title">LINEUP & SCHEDULE</div>
           <div className="schedule-image">
-            <img src={"https://i.imgur.com/xernEA1.png"} alt='image of the Flyer' />
+            <img src={"https://i.imgur.com/6m4Mwyb.png"} alt='image of the Flyer' />
           </div>
           <div className="schedule">
             <div className="card-details">4:00pm -- Doors Open</div>
