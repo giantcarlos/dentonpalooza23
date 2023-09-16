@@ -75,7 +75,17 @@ function App() {
           </div>
         </div>
         <div className="card">
-          <div className="card-title">PRESS RELEASES</div>
+          <div className="card-title">PRESS RELEASES / BLURBS</div>
+          <a href="https://daily.bandcamp.com/scene-report/denton-texas-rock-scene-report" target="_blank"  className="press-card">
+            <div className="press-image">
+              <img src={"https://i.imgur.com/Aq5g26V.jpg"} className="image-gray" alt='Denton art piece by A. Savage' />
+            </div>
+            <div className="press">
+            <div className="card-details">September 15th, 2023</div>
+              <div className="press-title">The Untamable Left-Field Rock of Denton, Texas</div>
+              <div className="card-details">Travis Shosa / Bandcamp Daily</div>
+            </div>
+          </a>
           <a href="https://www.dallasobserver.com/music/the-denton-meme-festival-dentonpalooza-is-back-for-a-third-year-17408197" target="_blank" className="press-card">
             <div className="press-image">
               <img src={"https://media2.dallasobserver.com/dal/imager/u/blog/17408201/joeyliechty_dentonpalooza.jpg?cb=1693947979"} className="image-gray" alt='image of previous Dentonpalooza from the Dallas Observer' />
