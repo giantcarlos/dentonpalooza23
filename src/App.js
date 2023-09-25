@@ -48,7 +48,7 @@ function App() {
         <div className="card">
           <div className="card-title">LINEUP & SCHEDULE</div>
           <div className="schedule-image">
-            <img src={"https://i.imgur.com/6m4Mwyb.png"} alt='image of the Flyer' />
+            <img src={"/images/flyer.png"} alt='image of the Flyer' />
           </div>
           <div className="schedule">
             <div className="card-details">4:00pm -- Doors Open</div>
@@ -78,7 +78,7 @@ function App() {
           <div className="card-title">PRESS RELEASES / BLURBS</div>
           <a href="https://daily.bandcamp.com/scene-report/denton-texas-rock-scene-report" target="_blank"  className="press-card">
             <div className="press-image">
-              <img src={"https://i.imgur.com/Aq5g26V.jpg"} className="image-gray" alt='Denton art piece by A. Savage' />
+              <img src={"/images/bandcamp.jpeg"} className="image-gray" alt='Denton art piece by A. Savage' />
             </div>
             <div className="press">
             <div className="card-details">September 15th, 2023</div>
