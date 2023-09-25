@@ -27,14 +27,14 @@ function App() {
         <div className="card">
           <div className="card-title">TICKET INFORMATION</div>
           <div className="image-container">
-            <img src={"https://i.imgur.com/D6CHEJA.jpg"} alt='image Sarah Jaffe' />
-            <img src={"https://i.imgur.com/EZoo0aT.jpg"} alt='image from previous years' />
-            <img src={"https://i.imgur.com/hBLWRVX.jpg"} alt='image from previous years' />
-            <img src={"https://i.imgur.com/Q8uthsf.jpg"} alt='image from previous years' />
-            <img src={"https://i.imgur.com/TJdMwyk.jpg"} alt='image from previous years' />
-            <img src={"https://i.imgur.com/IlNZI2G.jpg"} className="image-gray" alt='image from previous years' />
-            <img src={"https://i.imgur.com/Qe8zKEb.jpg"} alt='image from previous years' />
-            <img src={"https://i.imgur.com/D6CHEJA.jpg"} alt='image Sarah Jaffe' />
+            <img src={"/images/jaffe.jpg"} alt='image Sarah Jaffe' />
+            <img src={"/images/deepblue.jpg"} alt='image Deep Blue Something' />
+            <img src={"/images/bravecombo.jpg"} alt='image from Brave Combo' />
+            <img src={"/images/tigerhead.jpg"} alt='image of Tigerhead Guy' />
+            <img src={"/images/wrestling.jpg"} alt='image wrestling' />
+            <img src={"/images/costumes.jpg"} className="image-gray" alt='image of Krodent' />
+            <img src={"/images/bull.jpg"} alt='image of bull riding' />
+            <img src={"/images/jaffe.jpg"} alt='image Sarah Jaffe' />
           </div>
           <div className="card-details">Each ticket is priced at $20.</div>
           <div className="card-details">Funds raised will benefit both&nbsp; 
