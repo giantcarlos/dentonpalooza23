@@ -81,7 +81,7 @@ function App() {
           </div>
           <div className="merch">
             <div className="card-details">The public has spoken.</div>
-            <div className="card-details">We are now selling Dentonpalooza 3 T-Shirts, courtesy of our friends at&nbsp; 
+            <div className="card-details">We are now selling Dentonpalooza 3 t-shirts, courtesy of our friends at&nbsp; 
               <a href="http://www.slapdenton.com/" target="_blank">SLAP</a>.
             </div>
             <div className="card-details">Shirts are available in black, ash white, and navy blue.</div>
