@@ -75,6 +75,22 @@ function App() {
           </div>
         </div>
         <div className="card">
+          <div className="card-title">MERCH STORE</div>
+          <div className="merch-image">
+            <img src={"/images/slap.png"} alt='image of this years shirt design' />
+          </div>
+          <div className="merch">
+            <div className="card-details">The public has spoken.</div>
+            <div className="card-details">We are now selling Dentonpalooza 3 T-Shirts, courtesy of our friends at&nbsp; 
+              <a href="http://www.slapdenton.com/" target="_blank">SLAP</a>.
+            </div>
+            <div className="card-details">Shirts are available in black, ash white, and navy blue.</div>
+            <a href='https://311d51078989303.s4shops.com/' target="_blank">
+              <button className="button">BUY NOW</button>
+            </a>
+          </div>
+        </div>
+        <div className="card">
           <div className="card-title">PRESS RELEASES / BLURBS</div>
           <a href="https://daily.bandcamp.com/scene-report/denton-texas-rock-scene-report" target="_blank"  className="press-card">
             <div className="press-image">

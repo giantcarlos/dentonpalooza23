@@ -202,7 +202,7 @@ hr {
 }
 
 button {
-  width: 20%;
+  width: 12rem;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1rem;
   padding: 1rem 1rem;
@@ -233,6 +233,28 @@ button {
 .schedule {
   width: 50%;
   float: right;
+  margin-bottom: 1.5rem;
+}
+
+.merch {
+  width: 50%;
+  float: left;
+}
+
+.merch-image {
+  width: 45.5%;
+  float: right;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.merch-image > img {
+  width: 100%;
+}
+
+.schedule {
+  width: 50%;
+  float: left;
   margin-bottom: 1.5rem;
 }
 
@@ -368,6 +390,16 @@ and (max-width : 1024px) {
     width: 100%;
     float: left;
     margin-bottom: .75rem;
+  }
+  .merch-image {
+    margin-right: 0;
+    width: 100%;
+    margin-bottom: 0rem;
+  }
+  .merch {
+    margin-top: 1rem;
+    width: 100%;
+    float: left;
   }
   .press-card {
     display: inline-block;
