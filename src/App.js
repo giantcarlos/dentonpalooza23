@@ -66,8 +66,7 @@ function App() {
             <div className="card-details">8:45pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
             <div className="card-details">9:00pm --&nbsp;
             <a href='https://doforitrecords.com/shaolin-death-squad/' target="_blank">Shaolin Death Squad</a></div>
-            <div className="card-details">10:15pm -- $666 Costume Contest with&nbsp;
-            <a href='https://www.instagram.com/thetaffetadarling/' target="_blank">Taffeta Darling</a></div>
+            <div className="card-details">10:15pm -- $666 Costume Contest</div>
             <div className="card-details">11:30pm -- The Ghost of Festivals Past - T-Shirt Cannon</div>
             <div className="card-details">11:45pm --&nbsp;
             <a href='https://sarahjaffe.com/' target="_blank">Sarah Jaffe</a></div>
