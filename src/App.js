@@ -91,6 +91,16 @@ function App() {
         </div>
         <div className="card">
           <div className="card-title">PRESS & BLURBS</div>
+          <a href="https://www.dallasnews.com/opinion/commentary/2023/10/27/dentonpalooza-embraces-halloween/?outputType=amp" target="_blank"  className="press-card">
+            <div className="press-image">
+              <img src={"/images/dmn.avif"} className="image-gray" alt='image of Dentonpalooza from the Dallas Morning News' />
+            </div>
+            <div className="press">
+            <div className="card-details">October 27th, 2023</div>
+              <div className="press-title">Dentonpalooza Embraces Halloween</div>
+              <div className="card-details">Rob Curran / The Dallas Morning News</div>
+            </div>
+          </a>
           <a href="https://dentonrc.com/denton_u/things_to_do/what-the-heck-is-dentonpalooza-the-festival-s-history-and-what-to-expect-this-year/article_374d9895-a4fb-5ea6-b670-7f6a12f69446.html?utm_campaign=blox&utm_source=facebook&utm_medium=social&mibextid=S66gvFa" target="_blank"  className="press-card">
             <div className="press-image">
               <img src={"/images/tigerhead.jpg"} className="image-gray" alt='image Tigerhead' />
