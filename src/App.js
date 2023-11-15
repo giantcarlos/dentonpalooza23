@@ -27,14 +27,14 @@ function App() {
         <div className="card">
           <div className="card-title">TICKET INFORMATION</div>
           <div className="image-container">
-            <img src={"/images/jaffe.jpg"} alt='image Sarah Jaffe' />
-            <img src={"/images/deepblue.jpg"} alt='image Deep Blue Something' />
-            <img src={"/images/bravecombo.jpg"} alt='image from Brave Combo' />
-            <img src={"/images/tigerhead.jpg"} alt='image of Tigerhead Guy' />
-            <img src={"/images/wrestling.jpg"} alt='image wrestling' />
-            <img src={"/images/costumes.jpg"} className="image-gray" alt='image of Krodent' />
-            <img src={"/images/bull.jpg"} alt='image of bull riding' />
-            <img src={"/images/jaffe.jpg"} alt='image Sarah Jaffe' />
+            <img src={"../images/jaffe.jpg"} alt='image Sarah Jaffe' />
+            <img src={"../images/deepblue.jpg"} alt='image Deep Blue Something' />
+            <img src={"../images/bravecombo.jpg"} alt='image from Brave Combo' />
+            <img src={"../images/tigerhead.jpg"} alt='image of Tigerhead Guy' />
+            <img src={"../images/wrestling.jpg"} alt='image wrestling' />
+            <img src={"../images/costumes.jpg"} className="image-gray" alt='image of Krodent' />
+            <img src={"../images/bull.jpg"} alt='image of bull riding' />
+            <img src={"../images/jaffe.jpg"} alt='image Sarah Jaffe' />
           </div>
           <div className="card-details">Each ticket is priced at $20.</div>
           <div className="card-details">Funds raised will benefit both&nbsp; 
@@ -48,7 +48,7 @@ function App() {
         <div className="card">
           <div className="card-title">LINEUP & SCHEDULE</div>
           <div className="schedule-image">
-            <img src={"/images/flyer.png"} alt='image of the Flyer' />
+            <img src={"../images/flyer.png"} alt='image of the Flyer' />
           </div>
           <div className="schedule">
             <div className="card-details">4:00pm -- Doors Open</div>
@@ -76,7 +76,7 @@ function App() {
         <div className="card">
           <div className="card-title">MERCH STORE</div>
           <div className="merch-image">
-            <img src={"/images/slap.png"} alt='image of this years shirt design' />
+            <img src={"../images/slap.png"} alt='image of this years shirt design' />
           </div>
           <div className="merch">
             <div className="card-details">The public has spoken.</div>
@@ -93,7 +93,7 @@ function App() {
           <div className="card-title">PRESS & BLURBS</div>
           <a href="https://www.dallasnews.com/opinion/commentary/2023/10/27/dentonpalooza-embraces-halloween/?outputType=amp" target="_blank"  className="press-card">
             <div className="press-image">
-              <img src={"/images/dmn.avif"} className="image-gray" alt='image of Dentonpalooza from the Dallas Morning News' />
+              <img src={"../images/dmn.avif"} className="image-gray" alt='image of Dentonpalooza from the Dallas Morning News' />
             </div>
             <div className="press">
             <div className="card-details">October 27th, 2023</div>
@@ -103,7 +103,7 @@ function App() {
           </a>
           <a href="https://dentonrc.com/denton_u/things_to_do/what-the-heck-is-dentonpalooza-the-festival-s-history-and-what-to-expect-this-year/article_374d9895-a4fb-5ea6-b670-7f6a12f69446.html?utm_campaign=blox&utm_source=facebook&utm_medium=social&mibextid=S66gvFa" target="_blank"  className="press-card">
             <div className="press-image">
-              <img src={"/images/tigerhead.jpg"} className="image-gray" alt='image Tigerhead' />
+              <img src={"../images/tigerhead.jpg"} className="image-gray" alt='image Tigerhead' />
             </div>
             <div className="press">
             <div className="card-details">October 24th, 2023</div>
@@ -113,7 +113,7 @@ function App() {
           </a>
           <a href="https://daily.bandcamp.com/scene-report/denton-texas-rock-scene-report" target="_blank"  className="press-card">
             <div className="press-image">
-              <img src={"/images/bandcamp.jpeg"} className="image-gray" alt='Denton art piece by A. Savage' />
+              <img src={"../images/bandcamp.jpeg"} className="image-gray" alt='Denton art piece by A. Savage' />
             </div>
             <div className="press">
             <div className="card-details">September 15th, 2023</div>
