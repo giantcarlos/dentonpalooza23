@@ -1,4 +1,5 @@
 import './App.css';
+import flyer from "./images/flyer.png"
 
 function App() {
   return (
@@ -48,7 +49,7 @@ function App() {
         <div className="card">
           <div className="card-title">LINEUP & SCHEDULE</div>
           <div className="schedule-image">
-            <img src={"./images/flyer.png"} alt='image of the Flyer' />
+            <img src={flyer} alt='image of the Flyer' />
           </div>
           <div className="schedule">
             <div className="card-details">4:00pm -- Doors Open</div>
