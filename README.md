@@ -19,6 +19,7 @@ This is a freelance project and the official website of Denton's Dentonpalooza F
 
 
 ### **Live Link Link**
+---
 
 - https://dentonpalooza.com/
 
