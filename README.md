@@ -17,12 +17,10 @@ This is a freelance project and the official website of Denton's Dentonpalooza F
 - https://giantcarlos.github.io/dentonpalooza23/
 
 
-
 ### **Live Link**
 ---
 
 - https://dentonpalooza.com/
-
 
 
 ### **Github**
