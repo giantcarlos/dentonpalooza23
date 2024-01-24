@@ -11,11 +11,15 @@ This is a freelance project and the official website of Denton's Dentonpalooza F
 - CSS
 
 
-### **Project Link**
+### **Archived Link**
 ---
 
-- https://dentonpalooza.com/
 - https://giantcarlos.github.io/dentonpalooza23/
+
+
+### **Live Link Link**
+
+- https://dentonpalooza.com/
 
 
 ### **Github**
