@@ -1,6 +1,6 @@
 # **Dentonpalooza 2023**
 
-This is a freelance project and the official website of Denton's Dentonpalooza Festival 2023.
+This is a freelance front-end project and the official website of Denton's Dentonpalooza Festival. The year 2023 was specifically a fundraising year for Leukemia Texas and The Denton Music and Arts Collaborative.
 
 ### **Tech**
 ---
