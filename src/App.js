@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header>
-        <p>DENTONPALOOZA 3</p>
+        <h1>DENTONPALOOZA 3</h1>
         <h2>SATURDAY / OCTOBER 28, 2023</h2>
         <hr />
         <h3>RUBBER GLOVES REAHEARSAL STUDIOS</h3>
